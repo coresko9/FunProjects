@@ -52,8 +52,8 @@ namespace cipher
                     i++;
                 }
             }
-            string boob = sb.ToString();
-            return boob;
+            return sb.ToString();
+          
                      
         }
         public static void Main(string[] args)
